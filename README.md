@@ -1,35 +1,58 @@
-# Samuel Prado Pereira, "Lupi"
+<p align="center"> <img src="https://github.com/prapersam.png" width="150" alt="Samuel 'Lupi' Prado Pereira"/> </p>
 
-# Lupi - Estudiante ASIR
+# Samuel "Lupi" Prado Pereira
 
-Administración de sistemas y redes.
-Portfolio profesional documentado en Notion.
+> Estudiante de ASIR — Administración de sistemas y redes  
+> Especializado en servidores, automatización y gestión de infraestructuras.
 
-🌐 Portfolio:
-https://rincon-de-lupi.notion.site/Prado-Pereira-Samuel-T-cnico-de-Sistemas-2edce7f970a680708729d2c5e29b4978
+🌐 Portfolio: https://rincon-de-lupi.notion.site/Prado-Pereira-Samuel-T-cnico-de-Sistemas-2edce7f970a680708729d2c5e29b4978
 
-# 👋 Hola, soy Lupi
+---
 
-🎓 Estudiante de ASIR  
-🖥️ Administración de sistemas y redes  
-🐧 Linux | Windows Server | Docker  
+## 👋 Sobre mí
+Soy estudiante de ASIR con interés en administración de sistemas, automatización y despliegue de infraestructuras. Me gusta practicar con servidores Linux/Windows, contenedores y scripting para resolver problemas reales de operación y despliegue.
 
-## 🛠️ Tecnologías
-- Linux (Debian, CentOS, Ubuntu)
-- Windows Server
-- Bash / PowerShell
-- Docker & Docker Compose
-- Apache
-- Samba / FTP / DNS / DHCP
-- MySQL
+- 🎓 Estudiante ASIR
+- 🖥️ Administración de sistemas y redes
+- 🐧 Entorno favorito: Linux (Debian / Ubuntu / CentOS)
+
+---
+
+## 🛠 Tecnologías y herramientas
+| Categoría | Herramientas |
+|---|---|
+| Sistemas | Linux (Debian, Ubuntu, CentOS), Windows Server |
+| Contenedores | Docker, Docker Compose |
+| Scripting | Bash, PowerShell |
+| Servicios y servidores | Apache, Samba, FTP, DNS, DHCP |
+| Bases de datos | MySQL |
+| Otras | Samba ACL, automatización con scripts, documentación técnica |
+
+---
 
 ## 📂 Proyectos destacados
-- 🔐 Servidor Samba con permisos y ACL
-- 🌐 Infraestructura web con Docker
-- 📦 Scripts de automatización
-- 📘 Documentación técnica ASIR
+- 🔐 Servidor Samba con permisos y ACL  
+  Configuración de un servidor de ficheros con control de accesos y ACLs para usuarios y grupos.
+
+- 🌐 Infraestructura web con Docker  
+  Despliegue de servicios web usando Docker y Docker Compose para entornos reproducibles.
+
+- 📦 Scripts de automatización  
+  Colección de scripts (Bash / PowerShell) para tareas de administración, backup y despliegue.
+
+- 📘 Documentación técnica ASIR  
+  Apuntes, guías y prácticas detalladas documentadas en Notion (enlace al portfolio arriba).
+
+---
 
 ## 🎯 Objetivo
-Seguir creciendo como administrador de sistemas y especializarme en servidores y automatización.
+Seguir creciendo como administrador de sistemas, especializarme en servidores, automatización y prácticas de infraestructuras seguras y escalables.
 
+---
 
+## 📬 Contacto
+- Portfolio / CV: [Notion](https://rincon-de-lupi.notion.site/Prado-Pereira-Samuel-T-cnico-de-Sistemas-2edce7f970a680708729d2c5e29b4978)  
+- Email: prapersamuel@gmail.com
+- LinkedIn: https://www.linkedin.com/in/samuel-prado-pereira-a28b9236a/
+
+---
