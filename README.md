@@ -1,6 +1,11 @@
 # Samuel Prado Pereira, "Lupi"
 
-# Página de Notion
+# Lupi - Estudiante ASIR
+
+Administración de sistemas y redes.
+Portfolio profesional documentado en Notion.
+
+🌐 Portfolio:
 https://rincon-de-lupi.notion.site/Prado-Pereira-Samuel-T-cnico-de-Sistemas-2edce7f970a680708729d2c5e29b4978
 
 # 👋 Hola, soy Lupi
