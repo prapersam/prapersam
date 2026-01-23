@@ -1,4 +1,7 @@
-# lupi
+# Samuel Prado Pereira, "Lupi"
+
+# Página de Notion
+https://rincon-de-lupi.notion.site/Prado-Pereira-Samuel-T-cnico-de-Sistemas-2edce7f970a680708729d2c5e29b4978
 
 # 👋 Hola, soy Lupi
 
@@ -23,3 +26,5 @@
 
 ## 🎯 Objetivo
 Seguir creciendo como administrador de sistemas y especializarme en servidores y automatización.
+
+
