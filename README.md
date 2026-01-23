@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://github.com/prapersam.png" width="150" alt="Samuel 'Lupi' Prado Pereira"/> </p>
 
-<h1 align="center"> # Samuel "Lupi" Prado Pereira </h1>
+<h1 align="center"> Samuel "Lupi" Prado Pereira </h1>
 
 > Estudiante de ASIR — Administración de sistemas y redes  
 > Especializado en servidores, automatización y gestión de infraestructuras.
