@@ -8,7 +8,7 @@ administración de sistemas, redes e infraestructuras IT. </p>
 > Estudiante de ASIR — Administración de sistemas y redes  
 > Especializado en servidores, automatización y gestión de infraestructuras.
 
-🌐 Portfolio: https://rincon-de-lupi.notion.site/Prado-Pereira-Samuel-T-cnico-de-Sistemas-2edce7f970a680708729d2c5e29b4978
+🌐 Portfolio: [(https://rincondelupi.thesimple.ink/)]
 
 ---
 
@@ -54,7 +54,7 @@ Seguir creciendo como administrador de sistemas, especializarme en servidores, a
 ---
 
 ## 📬 Contacto
-- Portfolio / CV: [Notion](https://rincon-de-lupi.notion.site/Prado-Pereira-Samuel-T-cnico-de-Sistemas-2edce7f970a680708729d2c5e29b4978)  
+- Portfolio / CV: [Notion](https://rincondelupi.thesimple.ink/)
 - Email: prapersamuel@gmail.com
 - LinkedIn: https://www.linkedin.com/in/samuel-prado-pereira-a28b9236a/
 
