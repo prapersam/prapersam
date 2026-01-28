@@ -1,3 +1,6 @@
+Samuel "Lupi" Prado Pereira — Estudiante de ASIR especializado en
+administración de sistemas, redes e infraestructuras IT.
+
 <p align="center"> <img src="https://github.com/prapersam.png" width="150" alt="Samuel 'Lupi' Prado Pereira"/> </p>
 
 <h1 align="center"> Samuel "Lupi" Prado Pereira </h1>
